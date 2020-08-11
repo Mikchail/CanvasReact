@@ -1,0 +1,7 @@
+{
+  "editor.smoothScrolling": true,
+  "smoothtype.autoReload": true,
+  "smoothtype.duration": 800,
+  "editor.cursorSmoothCaretAnimation": true,
+  "extension.smoothscroll.linesToScroll": 202
+}
